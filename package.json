@@ -1,6 +1,6 @@
 {
   "name": "alert-vue-plug",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "alert-vue插件",
   "main": "dist/index.js",
   "scripts": {
